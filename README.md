@@ -17,6 +17,7 @@
 ├── manuscript.qmd             # 正文稿件
 ├── images/                    # 图示材料
 ├── tables/                    # 表格材料
+├── case/                      # 典型会诊案例（方法论支撑材料，已脱敏）
 ├── references.bib             # 参考文献数据
 ├── custom-reference-doc.docx  # Word 输出样式文件
 └── apa-7th-edition.csl        # APA 第 7 版参考文献格式样式
