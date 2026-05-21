@@ -11,9 +11,12 @@
 
 
 
-|   |   |
-|---|---|
-| <img src="images/Science.png" width="100%"> | <img src="images/Nature.png" width="100%"> |
+<p align="center">
+  <img src="images/Science.png" width="49%">
+  <img src="images/Nature.png"  width="49%">
+</p>
+
+
 
 <p align="center">
   <img src="images/逻辑框架.jpg" width="65%">
